@@ -3,7 +3,7 @@
 - Raspberry Pi model B https://en.wikipedia.org/wiki/Raspberry_Pi#Model_B
 - Tarjeta SD https://en.wikipedia.org/wiki/SD_card
 
-## Software
+## Software de terceros
 - Raspberry Pi OS https://www.raspberrypi.com/software/operating-systems/
 - p5js https://p5js.org/
 
