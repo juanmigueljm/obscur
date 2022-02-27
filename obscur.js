@@ -9,7 +9,6 @@ let tiempo = 0;
 function setup() {
     createCanvas(800, 480);
     background(5);
-    frameRate(1);
     strokeWeight(2);
     stroke(255, 255, 255, 25);
 }
