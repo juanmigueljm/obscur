@@ -9,7 +9,7 @@
 > Una de las posibles generaciones
 
 
-:white_check_mark: Existencia física = 1/1.
+:white_check_mark: Existencia física = 1
 
 
 
